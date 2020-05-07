@@ -12,4 +12,5 @@
 
 1. [[ML筆記] Ensemble - Bagging, Boosting & Stacking](http://violin-tao.blogspot.com/2018/01/ml-ensemble.html)
 
+1. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
