@@ -15,3 +15,5 @@
 1. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 1. [H2O Tutorials](https://docs.h2o.ai/h2o-tutorials/latest-stable/index.html)
+
+1. [Text Mining with R](https://www.tidytextmining.com/topicmodeling.html)
